@@ -70,4 +70,4 @@ public class Pokemon {
         }
         return result;
     }
-}
+
